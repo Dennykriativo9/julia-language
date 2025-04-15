@@ -21,3 +21,4 @@ resultado = soma(valor1,valor2)
 
 print(" a soma de $valor1 e $valor2 é $resultado")
 
+# Fim da aplicação 
