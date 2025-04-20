@@ -1,6 +1,4 @@
-#1 x N = N
-
-
+#função para multiplicação 
 print(" Digite o valor a ser Multiplicado : "); n = readline()
 n = parse(Int64,n)
 
